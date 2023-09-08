@@ -2,15 +2,15 @@
 test-cases:
  - summary: Проверка просмотра товара в корзине и содержимого в ней
    status: pass
+   
+ - summary: Проверка кнопки "в наличии"
+   status: pass
 
-- summary: Проверка кнопки "в наличии"
-  status: pass
+ - summary: Проверка поискового запроса
+   status: pass
 
-- summary: Проверка поискового запроса
-  status: pass
-
-- summary: Проверка просмотра информации о товаре
-  status: pass
+ - summary: Проверка просмотра информации о товаре
+   status: pass
 
 bugreports: 
  - summary: Проверка возможности оставить отзыв о товаре
