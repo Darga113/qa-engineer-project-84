@@ -12,7 +12,7 @@ test-cases:
  - summary: Проверка просмотра информации о товаре
    status: pass
 
-  - summary: Проверка оформления заказа
+ - summary: Проверка оформления заказа
     status: pass
 
 bugreports: 
