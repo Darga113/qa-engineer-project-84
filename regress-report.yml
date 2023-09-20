@@ -13,7 +13,7 @@ test-cases:
    status: pass
 
  - summary: Проверка оформления заказа
-    status: pass
+   status: pass
 
 bugreports: 
  - summary: Проверка возможности оставить отзыв о товаре
