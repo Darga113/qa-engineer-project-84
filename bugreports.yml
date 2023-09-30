@@ -107,4 +107,18 @@
   actual-result: |  
     В фильтре цены можно ввести другие значения кроме цифр https://prnt.sc/-jhl46N6M9NM
 
-    
+- summary: |  
+   На сайте непрвильно подключены два файла js и css
+  environment: |
+    Google Chrome   107.0.5304.121 (Официальная сборка) (64 бит)
+    ОС Windows 10  
+  steps-to-reproduce: |
+     1. Заходим на главную страницу магазина
+     2. Переходим в DevTools
+     3. Нажимаем на раздел network
+  expected-result: |
+    Файлы должны подключены быть корректно
+  actual-result: | 
+    Неккоректное подключение файлов https://prnt.sc/XM4rHVd5qvCo
+
+ 
