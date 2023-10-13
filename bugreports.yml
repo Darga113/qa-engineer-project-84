@@ -8,8 +8,7 @@
   expected-result: |
     При переходи на мобильное устройство, сайт должен работать адаптивно
   actual-result: |
-    Сайт магазина не поддерживает мобильное устройство 
-
+    Сайт магазина не поддерживает мобильное устройство (скриншот https://github.com/Darga113/qa-engineer-project-84/blob/main/.github/workflows/screenshots/%D1%81%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0.png
 - summary: |
    Сайт магазина загружается медленно
   environment: |
