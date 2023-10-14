@@ -24,7 +24,7 @@
     Страница сайта загружается дольше 2-х секунд (https://github.com/Darga113/qa-engineer-project-84/blob/main/.github/workflows/screenshots/%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.png)
 
 - summary: |
-   Пользователь должен иметь возможность фильтровать товары по всему каталогу
+   Пользователь не может фильтровать товары по всему каталогу
   environment: |
     Google Chrome   107.0.5304.121 (Официальная сборка) (64 бит)
     ОС Windows 10 
